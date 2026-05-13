@@ -1,0 +1,16 @@
+# kube configs
+.kube/
+
+# sops age keys
+*.agekey
+
+# temp files
+*.tmp
+*.bak
+
+# editor
+.vscode/
+.idea/
+
+# mac/linux
+.DS_Store
